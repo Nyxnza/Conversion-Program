@@ -1,0 +1,12 @@
+public class ConversionProgram{
+
+	public static void main(String[] args){
+	
+	//main method
+	double cm = 7.5;
+	double mm = cm * 10;
+	System.out.println(cm + " cm is equal to " + mm + " mm");
+	
+	}//end of main method
+	
+}//end of class
